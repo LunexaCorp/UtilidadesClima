@@ -1,0 +1,19 @@
+# Archivos de compilación
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Archivos temporales o de respaldo
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
