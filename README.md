@@ -32,6 +32,7 @@ Puedes usar las siguientes constantes para la función `convertirDeCelsiusA()`:
 #define FAHRENHEIT 1
 #define KELVIN     2
 #define RANKINE    3
+```
 
 👤 **Autor principal:** Yohan Nikel  
 🚀 **Proyecto desarrollado dentro de la organización** [LunexaCorp](https://github.com/LunexaCorp)
